@@ -1,0 +1,6 @@
+# Ignore the .git folder
+/.git
+.git/*
+
+# Ignore the .vscode folder
+.vscode/
